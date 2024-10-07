@@ -1,0 +1,14 @@
+.web
+assets/external/
+*.db
+.cursorignore
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.python-version
+
+# MkDocs
+docs/site

@@ -1,0 +1,6 @@
+{
+    "author_name": "Anonymous McNoOne",
+    "author_email": "anonymous@mc_no_one.dev",
+    "project_name": "Cookiecutter Template",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}"
+}
